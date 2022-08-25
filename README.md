@@ -1,3 +1,5 @@
 # Data-Structures-hw5
 
-Implementing quick sort algorithm
+working with complex data (from .csv file)
+
+1. Implementing quick sort algorithm
